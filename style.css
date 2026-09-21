@@ -16,6 +16,15 @@ h1 {font-weight: lighter;font-family:
     text-align-last: center;
     
 }
+.circle {
+      background-color: #8D918D;
+      background-radius: 50%;
+      width: 20px;
+      height: 20px;
+      position: fixed;
+      top: 10px;
+      left: 15px;
+      }
 .band{
     background-color: tan;
     position: relative ;
