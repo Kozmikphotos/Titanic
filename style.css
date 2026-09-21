@@ -17,10 +17,10 @@ h1 {font-weight: lighter;font-family:
     
 }
 .circle {
-      background-color: white;
+      background-color: grey;
       border-radius: 50%;
-      width: 20px;
-      height: 20px;
+      width: 30px;
+      height: 30px;
       position: fixed;
       top: 10px;
       left: 15px;
