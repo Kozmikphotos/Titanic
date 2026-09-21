@@ -18,7 +18,7 @@ h1 {font-weight: lighter;font-family:
 }
 .circle {
       background-color: white;
-      background-radius: 50%;
+      border-radius: 50%;
       width: 20px;
       height: 20px;
       position: fixed;
