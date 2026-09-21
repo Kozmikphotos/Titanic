@@ -17,7 +17,7 @@ h1 {font-weight: lighter;font-family:
     
 }
 .circle {
-      background-color: grey;
+      background-color: tan;
       border-radius: 50%;
       width: 30px;
       height: 30px;
@@ -26,7 +26,7 @@ h1 {font-weight: lighter;font-family:
       left: 15px;
       }
 .second {
-background-color: grey;
+			background-color: tan;
       border-radius: 50%;
       width: 30px;
       height: 30px;
