@@ -40,7 +40,11 @@ h1 {font-weight: lighter;font-family:
     top: 5px;
     left: 20px;
     
-}
+	}
+.text {
+		font-family: ariel; 
+    font-size: 2rem;
+    }
 #border {border:2px solid brown;
     border-width: 2px;
     margin-left: 150px;
