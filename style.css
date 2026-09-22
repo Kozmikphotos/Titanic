@@ -47,7 +47,7 @@ h1 {font-weight: lighter;font-family:
     }
     
 .box-one {
-		inline-block: 400px 400px;
+		background-width: 400px;
     background-color: tan;
     }
 #border {border:2px solid brown;
