@@ -45,6 +45,11 @@ h1 {font-weight: lighter;font-family:
 		font-family: ariel; 
     font-size: 2rem;
     }
+    
+.box-one {
+		inline-block: 400px;
+    background-color: tan;
+    }
 #border {border:2px solid brown;
     border-width: 2px;
     margin-left: 150px;
